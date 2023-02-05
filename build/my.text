@@ -1,0 +1,11 @@
+Product 产品类
+    实现了TemplateModel-模板方法模式
+
+Builder 抽象建造者
+    规范产品组建
+
+ConcreteBuilder 具体建造者
+    实现抽象类定义方法
+
+Director  导演类
+    负责安排已有模块顺序

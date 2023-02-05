@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="singleton" />
+        <module name="factory" />
+        <module name="decorator" />
+        <module name="adapter" />
+        <module name="facade" />
+        <module name="interpreter" />
+        <module name="templateModel" />
+        <module name="command" />
+        <module name="proxy" />
+        <module name="iterator" />
+        <module name="build" />
+        <module name="composite" />
+        <module name="prototype(clone_copy)" />
+        <module name="abstractFactory" />
+        <module name="mediator" />
+        <module name="chainOfResponsibility" />
+        <module name="strategy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="state" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

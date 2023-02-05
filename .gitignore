@@ -1,0 +1,17 @@
+# Project exclude paths
+/abstractFactory/target/
+/adapter/target/
+/build/target/
+/chainOfResponsibility/target/
+/command/target/
+/composite/target/
+/decorator/target/
+/factory/target/
+/interpreter/target/
+/iterator/target/
+/mediator/target/
+/prototype(clone_copy)/target/
+/proxy/target/
+/singleton/target/
+/strategy/target/
+/templateModel/target/

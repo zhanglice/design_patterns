@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/abstractFactory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/abstractFactory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/build/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/build/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chainOfResponsibility/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chainOfResponsibility/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/command/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/command/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/composite/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/composite/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/decorator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/decorator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/facade/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/facade/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interpreter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interpreter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iterator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iterator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mediator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mediator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prototype(clone_copy)/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prototype(clone_copy)/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/singleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/singleton/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/state/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/state/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/strategy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/strategy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/templateModel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/templateModel/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
